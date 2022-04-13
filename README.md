@@ -4,8 +4,9 @@
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
 <h3 align="center">Student Яндекс Практикума.</h3>
 
-![7MMG (1)](https://user-images.githubusercontent.com/94537074/163160349-2af477bc-f2ab-4a29-ac04-ba8b3356dc86.gif)
-<div style="padding-top:56.170%;position:relative;"><iframe src="https://gifer.com/embed/7MMG" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<div id="header" align="center">
+  <img src="https://i.gifer.com/7MMG.gif" width="100"/>
+</div>
 
 
 
