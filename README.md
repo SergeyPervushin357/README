@@ -1,5 +1,5 @@
 
-*<h1 align="center">*Привет! Меня зовут Первушин Сергей!*</h1>*
+<h1 align="center">*Привет! Меня зовут Первушин Сергей!*</h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
 <h3 align="center">*Я, являюсь студентом Яндекс Практикума.*</h3>
