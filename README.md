@@ -5,9 +5,10 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
+<img src="https://i.gifer.com/7MMG.gif" height="32"/>
 
 
-https://user-images.githubusercontent.com/94537074/163159161-1036adc7-c8b7-472f-9108-517a3be18a99.mp4
+
 
 
 
