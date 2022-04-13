@@ -5,7 +5,11 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/7MMG.mp4" width="100"/>
+  <img src="https://user-images.githubusercontent.com/94537074/163159005-6b6a2a07-f751-4127-865b-d1dc8937dc43.mp4" width="100"/>
+
+
+
+
 </div>
 
 ## :shopping_cart: Мой Стэк
