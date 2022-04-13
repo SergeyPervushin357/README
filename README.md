@@ -2,7 +2,7 @@
 *<h1 align="center">Привет! Меня зовут Первушин Сергей!</h1>*
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
-*<h3 align="center">Student Яндекс Практикума.</h3>*
+<h3 align="center">*Student Яндекс Практикума.*</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
