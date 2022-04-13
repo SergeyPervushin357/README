@@ -5,7 +5,7 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-<img src="https://i.gifer.com/7MMG.gif" height="32"/>
+<img src="https://i.gifer.com/7MMG.gif" height="100"/>
 
 
 
