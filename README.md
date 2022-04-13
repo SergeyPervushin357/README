@@ -5,7 +5,7 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-  <img src="https://f.partnerkin.com/uploads/storage/files/file_1625642280.gif" width="100"/>
+![7MMG (1)](https://user-images.githubusercontent.com/94537074/163160349-2af477bc-f2ab-4a29-ac04-ba8b3356dc86.gif)
 </div>
 
 
@@ -41,3 +41,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyPervushin357&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SergeyPervushin357&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=SergeyPervushin357)
+
