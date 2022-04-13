@@ -4,7 +4,7 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif" width="600"/>
 </div>
 
 
