@@ -4,9 +4,7 @@
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
 <h3 align="center">Student Яндекс Практикума.</h3>
 
-<div id="header" align="center">
 ![7MMG (1)](https://user-images.githubusercontent.com/94537074/163160349-2af477bc-f2ab-4a29-ac04-ba8b3356dc86.gif)
-</div>
 
 
 
