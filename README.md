@@ -1,3 +1,4 @@
+![7MMG (1)](https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif)
 
 *<h1 align="center">Привет! Меня зовут Первушин Сергей!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>*
@@ -5,8 +6,7 @@
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/94537074/163164129-d47c8c04-8f4a-44dd-90a0-6f9659d71a1d.mp4
-" width="100"/>
+  <img src="https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif" width="100"/>
 </div>
 
 
@@ -41,4 +41,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeyPervushin357&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SergeyPervushin357&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=SergeyPervushin357)
-
