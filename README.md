@@ -1,12 +1,10 @@
-![7MMG (1)](https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif)
-
 *<h1 align="center">Привет! Меня зовут Первушин Сергей!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>*
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
 <h3 align="center">Student Яндекс Практикума.</h3>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/94537074/163164230-9eb7d939-9731-4954-9958-7dcbbfc5e281.gif" width="200"/>
 </div>
 
 
